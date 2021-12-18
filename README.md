@@ -1,5 +1,5 @@
 # mailbox_model
 
-##Examples:
+## Examples:
 OS2.exe -t
 OS2.exe -c
